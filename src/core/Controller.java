@@ -14,7 +14,7 @@ public class Controller {
 
     public static void main(String[] args) throws Exception {
         //CrawlController controller = null; //new CrawlController("/data/crawl/root");
-        String crawlStorageFolder = "D:\\NetBeansProjects\\CrawlerHenrico\\data";
+        String crawlStorageFolder = "D:\\NetBeansProjects\\CrawlerUnipampa\\data";
         int numberOfCrawlers = 18;
         CrawlConfig config = new CrawlConfig();
         config.setCrawlStorageFolder(crawlStorageFolder);
