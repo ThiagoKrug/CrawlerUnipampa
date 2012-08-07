@@ -1,5 +1,7 @@
+/build
 /data
 /nbproject/private
+
 *.class
 
 # Package Files #
